@@ -7,9 +7,17 @@
 // Components
 @import "components/nav";
 @import "components/header";
+@import "components/games01";
 
 // Typography
 @import "typography/typography";
+
+// Overwrites
+.container {
+      // width: 1400px !important;
+      max-width: 1400px !important;
+      // padding: 0 !important;
+}
 
 .empty-div {
       margin-bottom: 4000px;

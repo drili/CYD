@@ -13,23 +13,29 @@
                   <div class="carousel-inner">
                         <div class="carousel-item active">
                               <img src="https://i.imgur.com/6Wn0KJy.png" alt="Los Angeles">
-                              <div class="carousel-caption">
-                                    <h4 class="header-title">Los Angeles</h4>
-                                    <p class="header-p">We had such a great time in LA!</p>
+                              <div class="carousel-data">
+                                    <div class="carousel-caption fade-in one">
+                                          <h4 class="header-title">Los Angeles</h4>
+                                          <p class="header-p">We had such a great time in LA!</p>
+                                    </div>
                               </div>
                         </div>
                         <div class="carousel-item">
                               <img src="https://i.imgur.com/NWpD21q.png" alt="Los Angeles">
-                              <div class="carousel-caption">
-                                    <h4>Los Angeles</h4>
-                                    <p class="header-p">We had such a great time in LA!</p>
+                              <div class="carousel-data">
+                                    <div class="carousel-caption fade-in one">
+                                          <h4 class="header-title">Los Angeles</h4>
+                                          <p class="header-p">We had such a great time in LA!</p>
+                                    </div>
                               </div>
                         </div>
                         <div class="carousel-item">
                               <img src="https://i.imgur.com/PIxHhJu.png" alt="Los Angeles">
-                              <div class="carousel-caption">
-                                    <h4>Los Angeles</h4>
-                                    <p class="header-p">We had such a great time in LA!</p>
+                              <div class="carousel-data">
+                                    <div class="carousel-caption fade-in one">
+                                          <h4 class="header-title">Los Angeles</h4>
+                                          <p class="header-p">We had such a great time in LA!</p>
+                                    </div>
                               </div>
                         </div>
                   </div>
