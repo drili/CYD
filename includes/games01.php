@@ -13,24 +13,42 @@
                   <div class="row games01-gallery">
                         <div class="games01-gallery--image col-lg-4">
                               <img src="images/games01-alien.png" alt="">
+                              <div class="overlay">
+                                    <a href="#" class="overlay-text">View this project</a>
+                              </div>
                         </div>
                         <div class="games01-gallery--image col-lg-4">
                               <img src="images/games01-alien.png" alt="">
+                              <div class="overlay">
+                                    <a href="#" class="overlay-text">View this project</a>
+                              </div>
                         </div>
                         <div class="games01-gallery--image col-lg-4">
                               <img src="images/games01-alien.png" alt="">
+                              <div class="overlay">
+                                    <a href="#" class="overlay-text">View this project</a>
+                              </div>
                         </div>
                   </div>
 
                   <div class="row games01-gallery2">
                         <div class="games01-gallery--image col-lg-4">
                               <img src="images/games01-alien.png" alt="">
+                              <div class="overlay">
+                                    <a href="#" class="overlay-text">View this project</a>
+                              </div>
                         </div>
                         <div class="games01-gallery--image col-lg-4">
                               <img src="images/games01-alien.png" alt="">
+                              <div class="overlay">
+                                    <a href="#" class="overlay-text">View this project</a>
+                              </div>
                         </div>
                         <div class="games01-gallery--image col-lg-4">
                               <img src="images/games01-alien.png" alt="">
+                              <div class="overlay">
+                                    <a href="#" class="overlay-text">View this project</a>
+                              </div>
                         </div>
                   </div>
 
