@@ -1,0 +1,43 @@
+.carousel-inner img {
+      width: 100%;
+      height: 900px;
+      object-fit: cover;
+}
+
+.header-p {
+      color: $white;
+}
+.header-title {
+      color: $light-grey;
+}
+
+@media screen and (max-width: 800px) {
+      .carousel-inner img {
+            width: 100%;
+            height: 600px;
+            max-height: 900px;
+            object-fit: cover;
+      }
+}
+
+@media screen and (min-width: 801px) {
+      .carousel-caption {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 0;
+            margin-left: auto;
+            margin-right: auto;
+            transform: translate(-65%, 55%);
+            max-width: 600px;
+            text-align: left;
+      }
+
+      .header-p {
+            font-size: 6rem;
+      }
+}
+
+.carousel-indicators li {
+      background: $cyan;
+}

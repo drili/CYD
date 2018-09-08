@@ -1,0 +1,16 @@
+// Variables
+@import "variables/colors";
+
+// Reset CSS
+@import "reset/reset";
+
+// Components
+@import "components/nav";
+@import "components/header";
+
+// Typography
+@import "typography/typography";
+
+.empty-div {
+      margin-bottom: 4000px;
+}

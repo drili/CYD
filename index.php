@@ -1,10 +1,16 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-      <head>
-            <meta charset="utf-8">
-            <title>Cyclone Designs</title>
-      </head>
-      <body>
-            
-      </body>
-</html>
+<!-- Header -->
+<?php include "includes/header.php"; ?>
+
+<!-- Body -->
+
+<!-- Navigation -->
+<?php include "includes/navigation.php"; ?>
+
+<?php include "includes/header-image.php"; ?>
+
+<div class="empty-div">
+
+</div>
+
+<!-- Footer -->
+<?php include "includes/footer.php"; ?>
