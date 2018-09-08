@@ -1,0 +1,53 @@
+.aboutus03 {
+      padding-top: 50px;
+      margin-bottom: 150px;
+}
+
+.aboutus03 .headline {
+      margin-bottom: 100px;
+}
+
+.aboutus-row {
+      text-align: center;
+}
+.aboutus-row .aboutus-headline h5 {
+      margin: 20px 0;
+      padding-top: 20px;
+      border-top: 2px solid $cyan;
+}
+.aboutus-row i {
+      font-size: 4rem;
+      color: $cyan;
+}
+.aboutus-col {
+      padding: 0 40px;
+}
+
+
+// Founders
+.founders-headline {
+      text-align: center;
+      margin-bottom: 100px;
+}
+.founders-images img {
+      margin: 0 auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
+.row-founders p {
+      text-align: center;
+      background-color: $cyan;
+      color: $white;
+      padding: 10px 0;
+      box-shadow: 5px 10px 18px black;
+}
+.row-founders h6 {
+      text-align: center;
+      margin-top: 50px;
+      color: $white;
+}
+.full-width--founders {
+      background-image: linear-gradient($white 30%, $grey 30%);
+      padding-bottom: 150px;
+}
