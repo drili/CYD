@@ -150,6 +150,12 @@
             transform: translate(-50%, -50%);
             text-align: center;
             background-color: $grey;
-            padding: 0 15px;
+            padding: 10px 25px;
+      }
+
+      .overlay-text:hover,
+      .overlay-text:active {
+            text-decoration: none;
+            color: $white;
       }
 }
