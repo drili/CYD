@@ -2,7 +2,7 @@
       <div class="portfolio02">
             <div class="container container-portfolio02">
                   <div class="row">
-                        <div class="headline col-lg-6">
+                        <div class="headline col-lg-6 wow fadeInDown" data-wow-duration="0.4s" data-wow-delay="0.5s">
                               <p>02</p>
                               <h1>PORTFOLIO</h1>
                               <br>
@@ -10,7 +10,7 @@
                         </div>
                   </div>
 
-                  <div class="portfolio02-button">
+                  <div class="portfolio02-button wow bounceInUp" data-wow-duration="0.9s" data-wow-delay="0.5s">
                         <a href="#" class="btn btn--green">View Portfolio</a>
                   </div>
             </div>

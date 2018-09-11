@@ -35,7 +35,9 @@
 // Founders
 .founders-headline {
       text-align: center;
-      margin-bottom: 100px;
+      margin-bottom: 0;
+      color: $white;
+      padding: 50px 0;
 }
 .founders-images img {
       margin: 0 auto;
@@ -59,8 +61,8 @@
       color: $white;
 }
 .full-width--founders {
-      background-image: linear-gradient($white 30%, $grey 30%);
-      padding-bottom: 150px;
+      background-color: $grey;
+      // padding-bottom: 150px;
       box-shadow: 0 15px 20px -2px gray;
 }
 .founders-images img:hover {
@@ -144,9 +146,15 @@
       background-color: $cyan;
       padding-left: 10px;
 }
-.team-member--info p {
+.team-member--name {
       font-weight: 300;
       font-style: italic;
+}
+.team-member--bio {
+      font-weight: 400;
+      background-color: rgba($dark-cyan, .5);
+      padding: 5px 10px;
+      height: 100%;
 }
 .aboutus03-2 i {
       font-size: 3rem;
@@ -170,7 +178,7 @@
 @media screen and (min-width: 800px) {
       .aboutus03-2 i {
             font-size: 8rem;
-            transform: translate(250px, -70px);
+            transform: translate(320px, -70px);
             margin: 0 auto;
       }
       .team-member {
@@ -182,18 +190,30 @@
             margin: 0 auto;
       }
 }
-
 .aboutus03-row2 {
-      margin-top: 75px;
+      margin-bottom: 150px;
+      margin-top: 50px;
 }
+
 
 @media screen and (max-width: 1350px) {
       .aboutus03-2 i {
             transform: translate(200px, -70px);
       }
+      .aboutus03-row2 {
+            margin-top: 100px;
+      }
 }
 @media screen and (max-width: 1150px) {
       .aboutus03-2 i {
             display: none;
+      }
+}
+@media screen and (min-width: 800px) {
+      .aboutus03-2 .col-lg-4 {
+            padding: 0 35px;
+      }
+      .team-member--info {
+            height: 150px;
       }
 }

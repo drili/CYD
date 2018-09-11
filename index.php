@@ -11,6 +11,7 @@
 <?php include "includes/games01.php"; ?>
 <?php include "includes/portfolio02.php"; ?>
 <?php include "includes/aboutus03.php"; ?>
+<?php include "includes/press04.php"; ?>
 
 <div class="empty-div">
 

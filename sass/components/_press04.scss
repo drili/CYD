@@ -1,0 +1,21 @@
+.press04 {
+      margin: 150px 0 50px 0;
+}
+.press04-media {
+      text-align: center;
+}
+.press04-media h5 {
+      background-color: $cyan;
+      padding: 10px 0;
+}
+.press04-socialicons i {
+      font-size: 5rem;
+      padding: 20px 20px;
+      color: $grey;
+      transition: transform .2s;
+}
+.press04-socialicons i:hover {
+      transform: scale(1.3);
+      transition: transform .2s;
+      color: $cyan;
+}

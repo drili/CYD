@@ -2,7 +2,7 @@
       <div class="games01">
             <div class="container">
                   <div class="row">
-                        <div class="headline col-lg-6">
+                        <div class="headline col-lg-6 wow fadeInDown" data-wow-duration="0.4s" data-wow-delay="0.5s">
                               <p>01</p>
                               <h1>GAMES</h1>
                               <br>
@@ -11,19 +11,19 @@
                   </div>
 
                   <div class="row games01-gallery">
-                        <div class="games01-gallery--image col-lg-4">
+                        <div class="games01-gallery--image col-lg-4 wow fadeInLeft" data-wow-duration="0.4s" data-wow-delay="0.5s">
                               <img src="images/games01-alien.png" alt="">
                               <div class="overlay">
                                     <a href="#" class="overlay-text">View this project</a>
                               </div>
                         </div>
-                        <div class="games01-gallery--image col-lg-4">
+                        <div class="games01-gallery--image col-lg-4 wow fadeInLeft" data-wow-duration="0.4s" data-wow-delay="0.6s">
                               <img src="images/games01-alien.png" alt="">
                               <div class="overlay">
                                     <a href="#" class="overlay-text">View this project</a>
                               </div>
                         </div>
-                        <div class="games01-gallery--image col-lg-4">
+                        <div class="games01-gallery--image col-lg-4 wow fadeInLeft" data-wow-duration="0.4s" data-wow-delay="0.7s">
                               <img src="images/games01-alien.png" alt="">
                               <div class="overlay">
                                     <a href="#" class="overlay-text">View this project</a>
@@ -32,19 +32,19 @@
                   </div>
 
                   <div class="row games01-gallery2">
-                        <div class="games01-gallery--image col-lg-4">
+                        <div class="games01-gallery--image col-lg-4 wow fadeInRight" data-wow-duration="0.4s" data-wow-delay="0.8s">
                               <img src="images/games01-alien.png" alt="">
                               <div class="overlay">
                                     <a href="#" class="overlay-text">View this project</a>
                               </div>
                         </div>
-                        <div class="games01-gallery--image col-lg-4">
+                        <div class="games01-gallery--image col-lg-4 wow fadeInRight" data-wow-duration="0.4s" data-wow-delay="0.9s">
                               <img src="images/games01-alien.png" alt="">
                               <div class="overlay">
                                     <a href="#" class="overlay-text">View this project</a>
                               </div>
                         </div>
-                        <div class="games01-gallery--image col-lg-4">
+                        <div class="games01-gallery--image col-lg-4 wow fadeInRight" data-wow-duration="0.4s" data-wow-delay="1s">
                               <img src="images/games01-alien.png" alt="">
                               <div class="overlay">
                                     <a href="#" class="overlay-text">View this project</a>
@@ -52,7 +52,7 @@
                         </div>
                   </div>
 
-                  <div class="games01-button">
+                  <div class="games01-button wow bounceInUp" data-wow-duration="0.9s" data-wow-delay="0.5s">
                         <a href="#" class="btn btn--green">View all projects</a>
                   </div>
             </div>
