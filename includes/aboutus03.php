@@ -54,7 +54,7 @@
 <div class="full-width--founders">
       <div class="aboutus03--founders">
             <div class="container">
-                  <h5 class="founders-headline">The Founders</h5>
+                  <h5 class="founders-headline">The Team</h5>
 
                   <div class="row founders-images">
                         <div class="col-lg-4 row-founders">
@@ -73,6 +73,130 @@
                               <img src="images/DriliUser1.png" alt="">
                               <p>Will Loader | somedaftmonkey</p>
                               <h6>Owner & 3D Modeller</h6>
+                        </div>
+                  </div>
+            </div>
+      </div>
+</div>
+
+<div class="triangle-outter">
+      <div class="triangle-box">
+            <div class="triangle-bottom">
+                  <a class="triangle-icon btn-click" onclick="myFunction()"><i class="fas fa-angle-double-down"></i></a>
+            </div>
+      </div>
+</div>
+
+<div class="full-width">
+      <div class="aboutus03-2" id="aboutus03-content">
+            <div class="container">
+                  <div class="row">
+                        <div class="col-lg-3 col-team-member">
+                              <div class="team-member">
+                                    <div class="team-member--icon">
+                                          <i class="fas fa-address-book"></i>
+                                    </div>
+                                    <div class="team-member--name">
+                                          <p>Drilon Braha | DriliNanners</p>
+                                    </div>
+                                    <div class="team-member--info">
+                                          <p>Webdesigner & 3D Modeller</p>
+                                    </div>
+                              </div>
+                        </div>
+                        <div class="col-lg-3">
+                              <div class="team-member">
+                                    <div class="team-member--icon">
+                                          <i class="fas fa-address-book"></i>
+                                    </div>
+                                    <div class="team-member--name">
+                                          <p>Drilon Braha | DriliNanners</p>
+                                    </div>
+                                    <div class="team-member--info">
+                                          <p>Webdesigner & 3D Modeller</p>
+                                    </div>
+                              </div>
+                        </div>
+                        <div class="col-lg-3">
+                              <div class="team-member">
+                                    <div class="team-member--icon">
+                                          <i class="fas fa-address-book"></i>
+                                    </div>
+                                    <div class="team-member--name">
+                                          <p>Drilon Braha | DriliNanners</p>
+                                    </div>
+                                    <div class="team-member--info">
+                                          <p>Webdesigner & 3D Modeller</p>
+                                    </div>
+                              </div>
+                        </div>
+                        <div class="col-lg-3">
+                              <div class="team-member">
+                                    <div class="team-member--icon">
+                                          <i class="fas fa-address-book"></i>
+                                    </div>
+                                    <div class="team-member--name">
+                                          <p>Drilon Braha | DriliNanners</p>
+                                    </div>
+                                    <div class="team-member--info">
+                                          <p>Webdesigner & 3D Modeller</p>
+                                    </div>
+                              </div>
+                        </div>
+                  </div>
+
+                  <div class="row aboutus03-row2">
+                        <div class="col-lg-3">
+                              <div class="team-member">
+                                    <div class="team-member--icon">
+                                          <i class="fas fa-address-book"></i>
+                                    </div>
+                                    <div class="team-member--name">
+                                          <p>Drilon Braha | DriliNanners</p>
+                                    </div>
+                                    <div class="team-member--info">
+                                          <p>Webdesigner & 3D Modeller</p>
+                                    </div>
+                              </div>
+                        </div>
+                        <div class="col-lg-3">
+                              <div class="team-member">
+                                    <div class="team-member--icon">
+                                          <i class="fas fa-address-book"></i>
+                                    </div>
+                                    <div class="team-member--name">
+                                          <p>Drilon Braha | DriliNanners</p>
+                                    </div>
+                                    <div class="team-member--info">
+                                          <p>Webdesigner & 3D Modeller</p>
+                                    </div>
+                              </div>
+                        </div>
+                        <div class="col-lg-3">
+                              <div class="team-member">
+                                    <div class="team-member--icon">
+                                          <i class="fas fa-address-book"></i>
+                                    </div>
+                                    <div class="team-member--name">
+                                          <p>Drilon Braha | DriliNanners</p>
+                                    </div>
+                                    <div class="team-member--info">
+                                          <p>Webdesigner & 3D Modeller</p>
+                                    </div>
+                              </div>
+                        </div>
+                        <div class="col-lg-3">
+                              <div class="team-member">
+                                    <div class="team-member--icon">
+                                          <i class="fas fa-address-book"></i>
+                                    </div>
+                                    <div class="team-member--name">
+                                          <p>Drilon Braha | DriliNanners</p>
+                                    </div>
+                                    <div class="team-member--info">
+                                          <p>Webdesigner & 3D Modeller</p>
+                                    </div>
+                              </div>
                         </div>
                   </div>
             </div>

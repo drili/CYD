@@ -19,6 +19,7 @@
             <link rel="stylesheet" href="sass/main.min.css">
             <script type="text/javascript" src="js/navigation.js"></script>
             <script type="text/javascript" src="js/header.js"></script>
+            <script type="text/javascript" src="js/aboutus03.js"></script>
             <link rel="stylesheet" href="sass/animate.css">
 
             <!-- Fonts -->

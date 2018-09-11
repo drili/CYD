@@ -6,7 +6,6 @@ function myFunction() {
         x.className = "topnav";
     }
 }
-
 $(function() {
     var header = $(".topnav");
 
