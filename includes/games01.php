@@ -12,19 +12,19 @@
 
                   <div class="row games01-gallery">
                         <div class="games01-gallery--image col-lg-4 wow fadeInLeft" data-wow-duration="0.4s" data-wow-delay="0.5s">
-                              <img src="images/games01-alien.png" alt="">
+                              <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
                               <div class="overlay">
                                     <a href="#" class="overlay-text">View this project</a>
                               </div>
                         </div>
                         <div class="games01-gallery--image col-lg-4 wow fadeInLeft" data-wow-duration="0.4s" data-wow-delay="0.6s">
-                              <img src="images/games01-alien.png" alt="">
+                              <img src="images/keyart/CloudJumper_MarketingKeyArt.jpg" alt="">
                               <div class="overlay">
                                     <a href="#" class="overlay-text">View this project</a>
                               </div>
                         </div>
                         <div class="games01-gallery--image col-lg-4 wow fadeInLeft" data-wow-duration="0.4s" data-wow-delay="0.7s">
-                              <img src="images/games01-alien.png" alt="">
+                              <img src="images/keyart/Deep_Sea_Mash-up_MarketingKeyArt.jpg" alt="">
                               <div class="overlay">
                                     <a href="#" class="overlay-text">View this project</a>
                               </div>
@@ -33,19 +33,19 @@
 
                   <div class="row games01-gallery2">
                         <div class="games01-gallery--image col-lg-4 wow fadeInRight" data-wow-duration="0.4s" data-wow-delay="0.8s">
-                              <img src="images/games01-alien.png" alt="">
+                              <img src="images/keyart/FallenTitan_MarketingKeyArt.jpg" alt="">
                               <div class="overlay">
                                     <a href="#" class="overlay-text">View this project</a>
                               </div>
                         </div>
                         <div class="games01-gallery--image col-lg-4 wow fadeInRight" data-wow-duration="0.4s" data-wow-delay="0.9s">
-                              <img src="images/games01-alien.png" alt="">
+                              <img src="images/keyart/Ice_Nether_MarketingKeyArt.png" alt="">
                               <div class="overlay">
                                     <a href="#" class="overlay-text">View this project</a>
                               </div>
                         </div>
                         <div class="games01-gallery--image col-lg-4 wow fadeInRight" data-wow-duration="0.4s" data-wow-delay="1s">
-                              <img src="images/games01-alien.png" alt="">
+                              <img src="images/keyart/Mine_Zoo_MarketingKeyArt.jpg" alt="">
                               <div class="overlay">
                                     <a href="#" class="overlay-text">View this project</a>
                               </div>

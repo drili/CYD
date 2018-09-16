@@ -23,7 +23,7 @@
             <link rel="stylesheet" href="sass/animate.css">
 
             <!-- Fonts -->
-            <link href="https://fonts.googleapis.com/css?family=Sigmar+One" rel="stylesheet">
+            <link href="https://fonts.googleapis.com/css?family=Saira:100,400,700,800" rel="stylesheet"> 
             <link href="https://fonts.googleapis.com/css?family=Barlow+Condensed:300,400,400i,700" rel="stylesheet">
             <link href="https://fonts.googleapis.com/css?family=Boogaloo" rel="stylesheet">
 
