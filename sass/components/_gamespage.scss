@@ -1,0 +1,133 @@
+.header-full-width {
+      background-image: linear-gradient(to right bottom, rgba($grey,0.65), rgba($cyan,0.65)),url(../images/funky-lines.png);
+      width: 100%;
+      height: 40vh;
+      background-repeat: repeat;
+      background-attachment: fixed;
+      position: relative;
+      text-align: center;
+      border-bottom: 2px solid $cyan;
+}
+// Test
+.header-full-width h1 {
+      position: absolute;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      padding: 0 20px;
+}
+
+.header-full-width p {
+      position: absolute;
+      top: 70%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      padding: 0 20px;
+      color: $white;
+}
+
+.games-description p {
+      position: absolute;
+      top: 80%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+}
+
+.games-page-full-width .overlay-text {
+      font-size: 1.5rem;
+}
+
+.games-page-content {
+      margin: 100px 0;
+}
+
+.games-page-content h6 {
+      // text-align: center;
+      padding: 0;
+      margin: 0;
+}
+
+.games-page-boxes img {
+      width: 100%;
+      height: auto;
+}
+
+.games-page-button {
+      text-align: center;
+      background-color: $grey;
+      padding: 5px 0;
+      margin: 0 auto;
+      transition: .5s ease;
+}
+
+.games-page-button:hover {
+      background-color: $beige-dark;
+}
+
+.games-page-button a {
+      font-size: 1.8rem;
+      color: $white;
+      transition: .5s ease;
+}
+
+.games-page-button a:hover {
+      text-decoration: none;
+      color: $grey;
+      transition: .5s ease;
+}
+
+.games-page-button {
+      margin-bottom: 30px;
+}
+
+.games-page-aboutourgames {
+      margin: 100px 0;
+}
+
+.games-page-row {
+      margin-bottom: 75px;
+}
+
+.games1-video {
+      width: 100%;
+      margin: 0 auto;
+}
+
+iframe {
+      width: 100% !important;
+      height: 90vh !important;
+      margin-bottom: 150px;
+}
+@media screen and (max-width: 800px) {
+      iframe {
+            width: 100% !important;
+            height: 65vh !important;
+            margin-bottom: 80px;
+      }
+}
+
+// GAMES
+.games-inc img {
+      width: 100%;
+      height: auto;
+}
+
+.gamesinc-full-width {
+      margin-bottom: 150px;
+}
+
+.games-button {
+      margin-top: 50px;
+}
+
+.gamescaroussel .carousel-control-prev {
+      z-index: 100;
+}
+
+.gamesslider .carousel-inner img {
+      height: 600px;
+}
+
+.gamesslider {
+      margin-bottom: 100px;
+}

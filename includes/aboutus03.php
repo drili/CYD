@@ -62,7 +62,7 @@
 <div class="triangle-outter">
       <div class="triangle-box">
             <div class="triangle-bottom">
-                  <a id="triangleid" class="triangle-icon btn-click" onclick="myFunction()"><i class="fas fa-angle-double-down"></i></a>
+                  <a id="triangleid" class="triangle-icon btn-click" onclick="myFunctionTwo()"><i class="fas fa-angle-double-down"></i></a>
             </div>
       </div>
 </div>

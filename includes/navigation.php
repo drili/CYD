@@ -1,7 +1,7 @@
 <div class="navbox wow bounceInDown" data-wow-duration="0.2s" data-wow-delay="0.1s">
       <div class="topnav" id="myTopnav">
             <nav class="menu fill">
-                  <a href="#home" class="link-logo">
+                  <a href="index.php" class="link-logo">
                         <img src="images/logo1.png" alt="">
                   </a>
                   <a href="#games">Games</a>

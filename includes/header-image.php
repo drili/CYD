@@ -3,7 +3,7 @@
             <div id="demo" class="carousel slide" data-ride="carousel">
 
                   <!-- Indicators -->
-                  <ul class="carousel-indicators">
+                  <ul class="carousel-indicators indifade">
                         <li data-target="#demo" data-slide-to="0" class="active"></li>
                         <li data-target="#demo" data-slide-to="1"></li>
                         <li data-target="#demo" data-slide-to="2"></li>
@@ -14,7 +14,7 @@
                   <div class="carousel-inner">
                         <div class="carousel-item active">
                               <img src="images/headerimg/CYD_banner1.png" alt="Los Angeles">
-                              <div class="carousel-data">
+                              <div class="carousel-data datafade">
                                     <div class="carousel-caption fade-in one">
                                           <h4 class="header-title">Los Angeles</h4>
                                           <p class="header-p">We had such a great time in LA!</p>
@@ -51,13 +51,12 @@
                   </div>
 
                   <!-- Left and right controls -->
-                  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                  <a class="carousel-control-prev prev2" href="#demo" data-slide="prev">
                         <span class="carousel-control-prev-icon"></span>
                   </a>
-                  <a class="carousel-control-next" href="#demo" data-slide="next">
+                  <a class="carousel-control-next next2" href="#demo" data-slide="next">
                         <span class="carousel-control-next-icon"></span>
                   </a>
-
             </div>
       </div>
 </div>
