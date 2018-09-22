@@ -131,3 +131,63 @@ iframe {
 .gamesslider {
       margin-bottom: 100px;
 }
+
+.games-goback {
+      text-align: center;
+      margin-bottom: 100px;
+}
+.games-goback .btn--green {
+      background-color: $grey;
+}
+.games-goback .btn {
+      color: $white;
+      background-color: $grey;
+
+      &--green {
+          background-color: $grey;
+          color: $white;
+
+          &::after {
+              background-color: $grey;
+          }
+      }
+}
+
+.filterDiv {
+  // float: left;
+  // background-color: #2196F3;
+  // color: #ffffff;
+  // width: 100px;
+  // line-height: 100px;
+  // text-align: center;
+  // margin: 2px;
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.btn {
+
+  cursor: pointer;
+}
+
+.btn:hover {
+
+}
+
+.btn.active {
+  background-color: $grey;
+  color: white;
+}
+
+#myBtnContainer {
+      text-align: center;
+      margin-top: 50px;
+}
+
+#myBtnContainer .btn {
+      margin: 0 auto;
+}

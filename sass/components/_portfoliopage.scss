@@ -1,0 +1,91 @@
+.portfolio-container img {
+      width: 100%;
+    height: auto;
+}
+
+.portfolio-container {
+      margin: 0 auto;
+      margin-top: 150px;
+}
+
+.portfolio-headline {
+      margin-bottom: 50px;
+}
+
+.gallery-container .container {
+      margin: 0 !important;
+      margin: 0 auto !important;
+      padding: 0 !important;
+      // max-width: 100% !important;
+}
+
+.gallery-container img {
+      width: 100%;
+      height: auto;
+}
+
+// .gallery-container .col-lg-3:first-child {
+//       padding-left: 0;
+// }
+// .gallery-container .col-lg-3:last-child {
+//       padding-right: 0;
+// }
+
+.gallery-container .col-lg-3 {
+      padding-top: 15px;
+      padding-bottom: 15px;
+}
+
+.gallery-container {
+      margin-top: 100px;
+      position: relative;
+      margin-bottom: 100px;
+}
+
+.gallery-h6 {
+      text-align: center;
+}
+
+// Hover effect
+.hover14 figure {
+      position: relative;
+      overflow: hidden;
+}
+
+.hover14 figure::before {
+      overflow: hidden;
+      position: absolute;
+	top: 0;
+	left: -75%;
+	z-index: 2;
+	display: block;
+	content: '';
+	width: 50%;
+	height: 100%;
+	background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+	background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+	-webkit-transform: skewX(-25deg);
+	transform: skewX(-25deg);
+      pointer-events: none;
+}
+
+.hover14 figure:hover::before {
+      -webkit-animation: shine .75s;
+	animation: shine .75s;
+      pointer-events: none;
+}
+
+@-webkit-keyframes shine {
+	100% {
+		left: 125%;
+	}
+}
+@keyframes shine {
+	100% {
+		left: 125%;
+	}
+}
+
+.gallery-container img:hover {
+      border: 2px solid $cyan;
+}

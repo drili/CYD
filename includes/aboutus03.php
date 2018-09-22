@@ -1,4 +1,4 @@
-<div class="full-width">
+<div class="full-width" id="aboutusid">
       <div class="aboutus03">
             <div class="container">
                   <div class="row">

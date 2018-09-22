@@ -20,7 +20,12 @@
             <script type="text/javascript" src="js/navigation.js"></script>
             <script type="text/javascript" src="js/header.js"></script>
             <script type="text/javascript" src="js/aboutus03.js"></script>
+            <script type="text/javascript" src="js/filterelements.js"></script>
             <link rel="stylesheet" href="sass/animate.css">
+
+            <!-- Fancybox -->
+            <link rel="stylesheet" href="fancybox/jquery.fancybox.min.css">
+            <script type="text/javascript" src="fancybox/jquery.fancybox.min.js"></script>
 
             <!-- Fonts -->
             <link href="https://fonts.googleapis.com/css?family=Saira:100,400,700,800" rel="stylesheet">

@@ -24,7 +24,7 @@
                                     <br>- Battle the robot dragon for the ultimate survival challenge!
                                     <br>- Suit up as a scientist or monster with 8 skins
 
-                                    <br><br>Open up the Marketplace on your Minecrafting device and download.</p>
+                                    <br><br>Open up the Marketplace ogn your Minecrafting device and download.</p>
                               </div>
                               <div class="games-button">
                                     <a href="#" class="btn btn--green">Buy this project</a>
@@ -114,6 +114,14 @@
                               </div>
                         </div>
                   </div>
+            </div>
+      </div>
+</div>
+
+<div class="games-goback">
+      <div class="container">
+            <div class="games-goback">
+                  <a href="#" class="btn btn--green"><i class="fas fa-chevron-left"></i> View other projects</a>
             </div>
       </div>
 </div>
