@@ -5,7 +5,7 @@
                   <footer class="footer">
                         <div class="container">
                               <div class="row footer-row">
-                                    <div class="col-lg-12">
+                                    <div class="col-lg-12" id="footerid">
                                           <h6>CYCLONE DESIGNS</h6>
                                           <br>
                                           <p>Cyclone Designs @Copyright - All rights reserved.</p>

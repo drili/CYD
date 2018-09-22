@@ -4,7 +4,7 @@
                   <a href="index.php" class="link-logo">
                         <img src="images/logo1.png" alt="">
                   </a>
-                  <a href="#contact">Contact</a>
+                  <a href="index.php#footerid">Contact</a>
                   <a href="#contact">Press</a>
                   <a href="index.php#aboutusid">About</a>
                   <a href="portfolio.php">Portfolio</a>
