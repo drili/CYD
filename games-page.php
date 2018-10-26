@@ -11,7 +11,7 @@
                   <h1>Games</h1>
                   <p>By Cyclone Designs
                         <br>
-                        Lorem ipsum dolor d exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                        We’ve created a huge range of games, adventures and graphics add-ons for the Minecraft Marketplace since becoming official partners in February of 2018. Our focus is on creating immersive and enjoyable maps to the highest quality for the variety of players of the game so that we can cater to the many different tastes in adventure and discovery out there.
                   </p>
 
             </div>
@@ -31,120 +31,142 @@
             <div class="games-page-content">
                   <div class="container">
                         <div class="row games-page-row">
-                              <div class="filterDiv adventure spawns col-lg-3 games-page-boxes">
-                                    <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
+                              <div class="filterDiv mashup col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/monstersandrobots/Monsters_and_Robots_Mash-up_MarketingKeyArt.png" alt="">
                                     <div class="games-page-button">
                                           <a href="games-page-layout.php?source=games1">View this project</a>
                                     </div>
-                                    <h6>Project name here</h6>
-                                    <p>Project by | Username here</p>
+                                    <h6>Monsters and Robots</h6>
+                                    <p>Project by Cyclone Designs</p>
                               </div>
-                              <div class="filterDiv mashup minigames fruits col-lg-3 games-page-boxes">
-                                    <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
+                              <div class="filterDiv adventure skinspack fruits col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/ageoflegends/AgeofLegend_MarketingKeyArt.jpg" alt="">
                                     <div class="games-page-button">
                                           <a href="games-page-layout.php?source=games2">View this project</a>
                                     </div>
-                                    <h6>Project name here</h6>
-                                    <p>Project by | Username here</p>
+                                    <h6>Age of Legends</h6>
+                                    <p>Project by Cyclone Designs</p>
                               </div>
-                              <div class="filterDiv adventure col-lg-3 games-page-boxes">
-                                    <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
+                              <div class="filterDiv adventure skinspack col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/cloudjumper/CloudJumper_MarketingKeyArt.jpg" alt="">
                                     <div class="games-page-button">
-                                          <a href="#">View this project</a>
+                                          <a href="games-page-layout.php?source=games3">View this project</a>
                                     </div>
-                                    <h6>Project name here</h6>
-                                    <p>Project by | Username here</p>
+                                    <h6>Cloud Jumper</h6>
+                                    <p>Project by Cyclone Designs</p>
                               </div>
-                              <div class="filterDiv texturepack col-lg-3 games-page-boxes">
-                                    <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
+                              <div class="filterDiv mashup skinspack col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/deepsea/Deep_Sea_Mash-up_MarketingKeyArt.jpg" alt="">
                                     <div class="games-page-button">
-                                          <a href="#">View this project</a>
+                                          <a href="games-page-layout.php?source=games4">View this project</a>
                                     </div>
-                                    <h6>Project name here</h6>
-                                    <p>Project by | Username here</p>
+                                    <h6>Deep Sea</h6>
+                                    <p>Project by Cycloen Designs</p>
+                              </div>
+                        </div>
+
+                        <div class="row games-page-row">
+                              <div class="filterDiv spawns skinspack col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/fallentitan/FallenTitan_MarketingKeyArt.jpg" alt="">
+                                    <div class="games-page-button">
+                                          <a href="games-page-layout.php?source=games5">View this project</a>
+                                    </div>
+                                    <h6>Fallen Titan</h6>
+                                    <p>Project by Cyclone Designs</p>
+                              </div>
+                              <div class="filterDiv spawns texturepack col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/icenether/Ice_Nether_MarketingKeyArt.png" alt="">
+                                    <div class="games-page-button">
+                                          <a href="games-page-layout.php?source=games6">View this project</a>
+                                    </div>
+                                    <h6>Ice Nether</h6>
+                                    <p>Project by Cyclone Designs</p>
+                              </div>
+                              <div class="filterDiv mashup spawns col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/minezoo/Mine_Zoo_MarketingKeyArt.jpg" alt="">
+                                    <div class="games-page-button">
+                                          <a href="games-page-layout.php?source=games7">View this project</a>
+                                    </div>
+                                    <h6>Mine Zoo</h6>
+                                    <p>Project by Cyclone Designs</p>
+                              </div>
+                              <div class="filterDiv adventure texturepack animals col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/phoenixquest/Phoenix_Quest_MarketingKeyArt.jpg" alt="">
+                                    <div class="games-page-button">
+                                          <a href="games-page-layout.php?source=games8">View this project</a>
+                                    </div>
+                                    <h6>Phoenix Quest</h6>
+                                    <p>Project by Cyclone Designs</p>
                               </div>
                         </div>
 
                         <div class="row games-page-row">
                               <div class="filterDiv skinspack col-lg-3 games-page-boxes">
-                                    <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
+                                    <img src="images/gamesimg/aliencivilization/aliencivilization_MarketingKeyArt.jpg" alt="">
                                     <div class="games-page-button">
-                                          <a href="#">View this project</a>
+                                          <a href="games-page-layout.php?source=games9">View this project</a>
                                     </div>
-                                    <h6>Project name here</h6>
-                                    <p>Project by | Username here</p>
+                                    <h6>Alien Civilization</h6>
+                                    <p>Project by Cyclone Designs</p>
                               </div>
-                              <div class="filterDiv spawns animals col-lg-3 games-page-boxes">
-                                    <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
+                              <div class="filterDiv skinspack col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/animalroleplay/animalroleplay_MarketingKeyArt.jpg" alt="">
                                     <div class="games-page-button">
-                                          <a href="#">View this project</a>
+                                          <a href="games-page-layout.php?source=games10">View this project</a>
                                     </div>
-                                    <h6>Project name here</h6>
-                                    <p>Project by | Username here</p>
+                                    <h6>Animal Roleplay</h6>
+                                    <p>Project by Cyclone Designs</p>
                               </div>
-                              <div class="filterDiv minigames spawns col-lg-3 games-page-boxes">
-                                    <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
+                              <div class="filterDiv skinspack col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/campingskinpack/campingskinpack_MarketingKeyArt.jpg" alt="">
                                     <div class="games-page-button">
-                                          <a href="#">View this project</a>
+                                          <a href="games-page-layout.php?source=games11">View this project</a>
                                     </div>
-                                    <h6>Project name here</h6>
-                                    <p>Project by | Username here</p>
+                                    <h6>Camping Skinspack</h6>
+                                    <p>Project by Cyclone Designs</p>
                               </div>
-                              <div class="filterDiv texturepack skinspack animals col-lg-3 games-page-boxes">
-                                    <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
+                              <div class="filterDiv skinspack col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/magicshow/magicshow_MarketingKeyArt.jpg" alt="">
                                     <div class="games-page-button">
-                                          <a href="#">View this project</a>
+                                          <a href="games-page-layout.php?source=games12">View this project</a>
                                     </div>
-                                    <h6>Project name here</h6>
-                                    <p>Project by | Username here</p>
+                                    <h6>Magic Show</h6>
+                                    <p>Project by Cyclone Designs</p>
                               </div>
                         </div>
 
                         <div class="row games-page-row">
-                              <div class="filterDiv fruits col-lg-3 games-page-boxes">
-                                    <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
+                              <div class="filterDiv skinspack col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/oceanexploration/oceanexplorationskinpack_MarketingKeyArt.jpg" alt="">
                                     <div class="games-page-button">
-                                          <a href="#">View this project</a>
+                                          <a href="games-page-layout.php?source=games13">View this project</a>
                                     </div>
-                                    <h6>Project name here</h6>
-                                    <p>Project by | Username here</p>
+                                    <h6>Ocean Exploration</h6>
+                                    <p>Project by Cyclone Designs</p>
                               </div>
-                              <div class="filterDiv fruits col-lg-3 games-page-boxes">
-                                    <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
+                              <div class="filterDiv skinspack col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/potatoparty/potatoparty_MarketingKeyArt.jpg" alt="">
                                     <div class="games-page-button">
-                                          <a href="#">View this project</a>
+                                          <a href="games-page-layout.php?source=games14">View this project</a>
                                     </div>
-                                    <h6>Project name here</h6>
-                                    <p>Project by | Username here</p>
+                                    <h6>Potato Party</h6>
+                                    <p>Project by Cyclone Designs</p>
                               </div>
-                              <div class="filterDiv colors col-lg-3 games-page-boxes">
-                                    <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
+                              <div class="filterDiv mashup col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/candylandexpress/The_Candyland_Express_MarketingKeyArt.jpg" alt="">
                                     <div class="games-page-button">
-                                          <a href="#">View this project</a>
+                                          <a href="games-page-layout.php?source=games15">View this project</a>
                                     </div>
-                                    <h6>Project name here</h6>
-                                    <p>Project by | Username here</p>
+                                    <h6>The Candyland Express</h6>
+                                    <p>Project by Cyclone Designs</p>
                               </div>
-                              <div class="filterDiv animals cars col-lg-3 games-page-boxes">
-                                    <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
+                              <div class="filterDiv mashup skinspack texturepack col-lg-3 games-page-boxes">
+                                    <img src="images/gamesimg/turtlesailor/TurtleSailor_MarketingKeyArt.jpg" alt="">
                                     <div class="games-page-button">
-                                          <a href="#">View this project</a>
+                                          <a href="games-page-layout.php?source=games16">View this project</a>
                                     </div>
-                                    <h6>Project name here</h6>
-                                    <p>Project by | Username here</p>
-                              </div>
-                        </div>
-                  </div>
-            </div>
-      </div>
-
-      <div class="full-width-aboutourgames">
-            <div class="aboutourgames">
-                  <div class="container">
-                        <div class="row games-page-aboutourgames">
-                              <div class="col-lg-6">
-                                    <h2>About Our Games</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.q</p>
+                                    <h6>Turtle Sailor</h6>
+                                    <p>Project by Cyclone Designs</p>
                               </div>
                         </div>
                   </div>

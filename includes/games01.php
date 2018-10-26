@@ -6,7 +6,7 @@
                               <p>01</p>
                               <h1>GAMES</h1>
                               <br>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                              <p>We’ve created a huge range of games, adventures and graphics add-ons for the Minecraft Marketplace since becoming official partners in February of 2018. Our focus is on creating immersive and enjoyable maps to the highest quality for the variety of players of the game so that we can cater to the many different tastes in adventure and discovery out there.</p>
                         </div>
                   </div>
 
@@ -14,19 +14,19 @@
                         <div class="games01-gallery--image col-lg-4 wow fadeInLeft" data-wow-duration="0.4s" data-wow-delay="0.2s">
                               <img src="images/keyart/AgeofLegend_MarketingKeyArt.jpg" alt="">
                               <div class="overlay">
-                                    <a href="#" class="overlay-text">View this project</a>
+                                    <a href="games-page-layout.php?source=games2" class="overlay-text">View this project</a>
                               </div>
                         </div>
                         <div class="games01-gallery--image col-lg-4 wow fadeInLeft" data-wow-duration="0.4s" data-wow-delay="0.3s">
                               <img src="images/keyart/CloudJumper_MarketingKeyArt.jpg" alt="">
                               <div class="overlay">
-                                    <a href="#" class="overlay-text">View this project</a>
+                                    <a href="games-page-layout.php?source=games3" class="overlay-text">View this project</a>
                               </div>
                         </div>
                         <div class="games01-gallery--image col-lg-4 wow fadeInLeft" data-wow-duration="0.4s" data-wow-delay="0.4s">
                               <img src="images/keyart/Deep_Sea_Mash-up_MarketingKeyArt.jpg" alt="">
                               <div class="overlay">
-                                    <a href="#" class="overlay-text">View this project</a>
+                                    <a href="games-page-layout.php?source=games4" class="overlay-text">View this project</a>
                               </div>
                         </div>
                   </div>
@@ -35,19 +35,19 @@
                         <div class="games01-gallery--image col-lg-4 wow fadeInRight" data-wow-duration="0.4s" data-wow-delay="0.5s">
                               <img src="images/keyart/FallenTitan_MarketingKeyArt.jpg" alt="">
                               <div class="overlay">
-                                    <a href="#" class="overlay-text">View this project</a>
+                                    <a href="games-page-layout.php?source=games5" class="overlay-text">View this project</a>
                               </div>
                         </div>
                         <div class="games01-gallery--image col-lg-4 wow fadeInRight" data-wow-duration="0.4s" data-wow-delay="0.6s">
                               <img src="images/keyart/Ice_Nether_MarketingKeyArt.png" alt="">
                               <div class="overlay">
-                                    <a href="#" class="overlay-text">View this project</a>
+                                    <a href="games-page-layout.php?source=games6" class="overlay-text">View this project</a>
                               </div>
                         </div>
                         <div class="games01-gallery--image col-lg-4 wow fadeInRight" data-wow-duration="0.4s" data-wow-delay="0.7s">
                               <img src="images/keyart/Mine_Zoo_MarketingKeyArt.jpg" alt="">
                               <div class="overlay">
-                                    <a href="#" class="overlay-text">View this project</a>
+                                    <a href="games-page-layout.php?source=games7" class="overlay-text">View this project</a>
                               </div>
                         </div>
                   </div>

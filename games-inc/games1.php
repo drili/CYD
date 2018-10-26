@@ -27,7 +27,7 @@
                                     <br><br>Open up the Marketplace ogn your Minecrafting device and download.</p>
                               </div>
                               <div class="games-button">
-                                    <a href="#" class="btn btn--green">Buy this project</a>
+                                    <a href="https://marketplace.minecraft.net/en-us/pdp?title=monsters-and-robots-mashup" target="_blank" class="btn btn--green">Buy this project</a>
                               </div>
                         </div>
                   </div>
@@ -121,7 +121,7 @@
 <div class="games-goback">
       <div class="container">
             <div class="games-goback">
-                  <a href="#" class="btn btn--green"><i class="fas fa-chevron-left"></i> View other projects</a>
+                  <a href="./games-page.php" class="btn btn--green"><i class="fas fa-chevron-left"></i> View other projects</a>
             </div>
       </div>
 </div>

@@ -9,8 +9,10 @@
                                           <h6>CYCLONE DESIGNS</h6>
                                           <br>
                                           <p>Cyclone Designs @Copyright - All rights reserved.</p>
+                                          <br>
+                                          <p>BUSINESS@CYCLONEDESIGNS.NET</p>
                                           <div class="footer-button">
-                                                <a href="#" class="btn btn--green">Contact Us</a>
+                                                <a href="mailto:BUSINESS@CYCLONEDESIGNS.NET" class="btn btn--green">Contact Us</a>
                                           </div>
                                     </div>
                               </div>

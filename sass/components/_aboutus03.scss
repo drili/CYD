@@ -155,6 +155,7 @@
       background-color: rgba($dark-cyan, .5);
       padding: 5px 10px;
       height: 100%;
+      font-size: 1.7rem;
 }
 .aboutus03-2 i {
       font-size: 3rem;
@@ -214,6 +215,11 @@
             padding: 0 35px;
       }
       .team-member--info {
-            height: 150px;
+            // height: 150px;
       }
+}
+.team-member--link {
+      font-size: 1.5rem;
+      color: $grey;
+      text-decoration: underline;
 }

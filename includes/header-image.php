@@ -16,8 +16,8 @@
                               <img src="images/headerimg/CYD_banner1.png" alt="Los Angeles">
                               <div class="carousel-data datafade">
                                     <div class="carousel-caption fade-in one">
-                                          <h4 class="header-title">Los Angeles</h4>
-                                          <p class="header-p">We had such a great time in LA!</p>
+                                          <h4 class="header-title">Dragon City</h4>
+                                          <p class="header-p">Immerse yourself into a futuristic Asian inspired metropolis filled with hyper realistic details</p>
                                     </div>
                               </div>
                         </div>
@@ -25,8 +25,8 @@
                               <img src="images/headerimg/CYD_banner2.png" alt="Los Angeles">
                               <div class="carousel-data">
                                     <div class="carousel-caption fade-in one">
-                                          <h4 class="header-title">Los Angeles</h4>
-                                          <p class="header-p">We had such a great time in LA!</p>
+                                          <h4 class="header-title">Monsters and Robots</h4>
+                                          <p class="header-p">Futuristic and scientific discoveries await you on this mysterious island, dare you venture here?</p>
                                     </div>
                               </div>
                         </div>
@@ -34,8 +34,8 @@
                               <img src="images/headerimg/CYD_banner3.png" alt="Los Angeles">
                               <div class="carousel-data">
                                     <div class="carousel-caption fade-in one">
-                                          <h4 class="header-title">Los Angeles</h4>
-                                          <p class="header-p">We had such a great time in LA!</p>
+                                          <h4 class="header-title">Age of Legend</h4>
+                                          <p class="header-p">Journey back in time to the wilds of the Bronze Age to challenge your survival skills.</p>
                                     </div>
                               </div>
                         </div>
@@ -43,8 +43,8 @@
                               <img src="images/headerimg/CYD_banner4.png" alt="Los Angeles">
                               <div class="carousel-data">
                                     <div class="carousel-caption fade-in one">
-                                          <h4 class="header-title">Los Angeles</h4>
-                                          <p class="header-p">We had such a great time in LA! 4</p>
+                                          <h4 class="header-title">Deep Sea</h4>
+                                          <p class="header-p">Delve into the unknown of the deep blue and discover sunken secrets.</p>
                                     </div>
                               </div>
                         </div>

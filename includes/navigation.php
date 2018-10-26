@@ -5,7 +5,7 @@
                         <img src="images/logo1.png" alt="">
                   </a>
                   <a href="index.php#footerid">Contact</a>
-                  <a href="#contact">Press</a>
+                  <a href="index.php#press04">Press</a>
                   <a href="index.php#aboutusid">About</a>
                   <a href="portfolio.php">Portfolio</a>
                   <a href="games-page.php">Games</a>
